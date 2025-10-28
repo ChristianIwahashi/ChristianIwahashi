@@ -1,4 +1,4 @@
-### 💻 My Stacks
+<h1>💻 My Stacks</h1>
 <img
         align="left"
         alt="Java"
@@ -30,13 +30,13 @@
 <br/>
 <br/>
 
-### 📊 Statistics
+<h2>📊 Statistics</h2>
 <p>
     <img
             align="left"
             alt="GitHub Stats"
             height="200"
             style="padding-right: 10px;"
-            src="https://github-readme-stats.vercel.app/api?username=ChristianIwahashi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+            src="https://github-readme-stats.vercel.app/api?username=ChristianIwahashi&show_icons=true&theme=tokyonight&include_all_commits=true"
     />
 </p>
