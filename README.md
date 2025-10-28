@@ -1,16 +1,42 @@
-## Hi there 👋
+### 💻 My Stacks
+<img
+        align="left"
+        alt="Java"
+        title="Java"
+        width="50px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
 
-<!--
-**ChristianIwahashi/ChristianIwahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+        align="left"
+        alt="MySQL"
+        title="MySQL"
+        width="50px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
 
-Here are some ideas to get you started:
+<img
+        align="left"
+        alt="Bootstrap"
+        title="Bootstrap"
+        width="50px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+<br/>
+
+### 📊 Statistics
+<p>
+    <img
+            align="left"
+            alt="GitHub Stats"
+            height="200"
+            style="padding-right: 10px;"
+            src="https://github-readme-stats.vercel.app/api?username=ChristianIwahashi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+</p>
