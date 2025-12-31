@@ -38,14 +38,3 @@
 <br/>
 <br/>
 <br/>
-
-<h2>📊 Statistics</h2>
-<p>
-    <img
-            align="left"
-            alt="GitHub Stats"
-            height="200"
-            style="padding-right: 10px;"
-            src="https://github-readme-stats.vercel.app/api?username=ChristianIwahashi&show_icons=true&theme=tokyonight&include_all_commits=true"
-    />
-</p>
